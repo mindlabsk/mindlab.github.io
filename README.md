@@ -1,1 +1,1 @@
-# mindlabsk.github.io
+# mindlab.in
